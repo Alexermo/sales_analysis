@@ -1,7 +1,8 @@
 import csv
 from datetime import datetime
-import matplotlib.pyplot as plt
+
 import matplotlib.dates as mdates
+import matplotlib.pyplot as plt
 import pandas as pd
 
 

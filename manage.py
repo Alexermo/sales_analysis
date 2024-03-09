@@ -1,7 +1,9 @@
 import time
 
-from salesdata import (total_sum_month, best_selling_category_month, best_selling_category_all_time, best_cost_day,
-                       best_selling_product_all_time, sales_category_dashboard, sales_days_dashboard)
+from salesdata import (best_cost_day, best_selling_category_all_time,
+                       best_selling_category_month,
+                       best_selling_product_all_time, sales_category_dashboard,
+                       sales_days_dashboard, total_sum_month)
 
 
 def start():
