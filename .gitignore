@@ -1,0 +1,40 @@
+# PyCharm
+*.idea/
+.idea/
+
+# Virtualenv
+venv/
+
+# Logs
+*.log
+*.log/*
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+*.pyd/
+
+# IDE-specific data
+*.sublime-workspace
+*.iml
+other.xml
+aws.xml
+misc.xml
+csv-plugin.xml
+
+# Django stuff:
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webdriver-cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
